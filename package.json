@@ -11,7 +11,7 @@
     "dotenv": "^8.2.0",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "lodash": "^4.17.15",
-    "luxon": "^1.19.3",
+    "luxon": "^2.5.2",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-bootstrap-time-picker": "^2.0.1",
